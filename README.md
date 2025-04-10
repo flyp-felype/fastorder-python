@@ -42,7 +42,7 @@ Crie uma aplicação Django chamada **"FastOrder"**, que simule um sistema de pe
 ---
 
 ## 📁 Sugestão de estrutura de pastas (Clean Architecture)
-
+```
 fastorder/
 │
 ├── domain/
@@ -72,6 +72,6 @@ fastorder/
 ├── manage.py
 └── Dockerfile / docker-compose.yml
 
-
+```
 
 
